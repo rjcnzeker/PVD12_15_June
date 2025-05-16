@@ -1,0 +1,5576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Турстоянки</name>
+    <Style id="icon-1623-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1623-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1623-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1623-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1623-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1650-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1650-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1650-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1650-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1650-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 3<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>3</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.167672,54.216827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 4<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>4</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.167694,54.217336,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 5<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>5</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.169228,54.217524,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 6<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>6</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.170454,54.217907,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 7<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>7</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.170053,54.218266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 8<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>8</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.171441,54.218465,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 9<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>9</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.171638,54.218529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 10<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>10</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.172347,54.218813,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 11<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>11</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.172753,54.218858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 12<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>12</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.173683,54.219082,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 13<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>13</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.174119,54.218784,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 14<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>14</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.174435,54.218864,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 15<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>15</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.174871,54.218972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 16<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>16</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.175099,54.218942,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 17<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>17</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.175801,54.21901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 18<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>18</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.176068,54.219039,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 19<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>19</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.176733,54.219057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 20<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>20</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.177351,54.218982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 21<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>21</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.177686,54.21886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 22<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>22</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.178552,54.218643,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 23<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>23</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.207746,54.224171,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 24<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>24</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.211703,54.224362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 25<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>25</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.217006,54.224641,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 26<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>26</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.05,54.2047,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 27<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>27</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.0632,54.2053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 28<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>28</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.0387,54.2026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 29<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>29</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.0405,54.203,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 30<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>30</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.0295,54.2004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 31<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>31</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.0378,54.2024,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 32<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>32</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          34.98745,54.914152,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 33<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>33</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          34.988732,54.912872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 34<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>34</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          34.992108,54.913747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 35<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>35</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.008814,54.880536,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 36<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>36</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.020629,54.873165,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 37<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>37</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.02168,54.872935,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 38<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>38</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.024884,54.871601,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 39<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>39</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.025803,54.87137,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 40<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>40</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.027223,54.871093,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 41<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>41</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.02911,54.870445,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 42<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>42</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.039441,54.810692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 43<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>43</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.032011,54.803959,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 44<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>44</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.032831,54.802103,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 45<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>45</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.033264,54.801608,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 46<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>46</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.034545,54.80047,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 47<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>47</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.036022,54.799631,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 48<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>48</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.037031,54.79907,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 49<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>49</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.038871,54.798409,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 50<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>50</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.039539,54.798253,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 51<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>51</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.040307,54.798087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 52<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>52</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.041962,54.797672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 53<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>53</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.04643,54.797253,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 54<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>54</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.047693,54.797222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 55<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>55</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.048367,54.797511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 56<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>56</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.049521,54.797423,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 57<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>57</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.050284,54.797392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 58<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>58</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.050767,54.797494,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 59<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>59</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.052285,54.797609,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 60<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>60</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.053835,54.797806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 61<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>61</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.054608,54.798083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 62<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>62</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.056973,54.798662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 63<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>63</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.05775,54.798846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 64<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>64</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.059035,54.799393,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 65<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>65</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.059713,54.799686,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 66<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>66</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.085306,54.792677,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 67<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>67</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.082844,54.790891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 68<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>68</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.072351,54.785719,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 69<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>69</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.059669,54.77099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 70<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>70</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.058813,54.771672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 71<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>71</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.059245,54.771338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 72<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>72</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.060645,54.770289,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 73<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>73</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.061862,54.769815,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 74<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>74</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.062777,54.769594,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 75<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>75</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.079388,54.769917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 76<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>76</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.081347,54.769895,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 78<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>78</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.150725,54.723973,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 79<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>79</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.094055,54.773562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 80<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>80</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.110519,54.771093,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 82<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>82</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.114381,54.761469,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 83<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>83</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.115088,54.761267,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 84<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>84</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.115963,54.76091,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 85<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>85</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.116776,54.760496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 86<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>86</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.117311,54.760242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 87<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>87</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.119394,54.759332,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 88<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>88</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.120293,54.759042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 89<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>89</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.305722,54.767977,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 90<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>90</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.306318,54.768135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 91<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>91</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.307382,54.767695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 92<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>92</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.307575,54.767634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 93<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>93</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.308891,54.766502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 94<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>94</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.310415,54.766675,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 95<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>95</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.312814,54.763404,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 96<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>96</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.313031,54.76312,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 97<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>97</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.313101,54.763026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 98<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>98</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.313521,54.762829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 99<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>99</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.313968,54.762462,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 100<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>100</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.318176,54.759616,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 101<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>101</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.318379,54.759509,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 102<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>102</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.318557,54.759323,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 103<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>103</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.319104,54.758854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 128<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>128</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.026749,54.806512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 130<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>130</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.176841,54.218959,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 131<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>131</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.17585,54.219565,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 132<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>132</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          36.176482,54.2192,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 149<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>149</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0376,54.8116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 150<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>150</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.049,54.8171,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 151<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>151</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0532,54.8218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 152<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>152</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0533,54.8227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 153<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>153</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0532,54.8238,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 154<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>154</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0418,54.8279,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 155<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>155</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0358,54.8279,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 156<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>156</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0118,54.8376,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 157<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>157</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0107,54.8382,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 158<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>158</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0059,54.85,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 159<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>159</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0075,54.8515,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 160<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>160</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0095,54.8514,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 161<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>161</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0124,54.852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 162<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>162</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0263,54.8554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 163<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>163</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0297,54.8566,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 164<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>164</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0305,54.857,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 165<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>165</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0316,54.858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 166<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>166</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0321,54.8589,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 167<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>167</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0334,54.8616,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 168<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>168</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0098,54.8802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 169<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>169</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0916,54.7738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 170<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>170</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0925,54.7737,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 171<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>171</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.0924,54.774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 172<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>172</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2129,54.7531,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 173<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>173</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.212,54.7528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 174<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>174</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2116,54.7527,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 175<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>175</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.21,54.7525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 176<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>176</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2094,54.7523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 177<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>177</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2072,54.7501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 178<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>178</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2067,54.7502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 179<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>179</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2061,54.75,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 180<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>180</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.206,54.7493,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 181<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>181</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2056,54.7483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 182<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>182</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2059,54.7485,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 183<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>183</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2059,54.7483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 184<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>184</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2059,54.7481,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 185<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>185</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2056,54.7482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 186<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>186</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2065,54.7456,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 187<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>187</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2061,54.7453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 188<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>188</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.2056,54.745,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 189<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>189</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.196,54.7436,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 190<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>190</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.1789,54.746,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 191<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>191</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.1754,54.7467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 192<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>192</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.1674,54.7504,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 193<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>193</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.1669,54.7508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 194<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>194</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.1247,54.7374,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 195<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>195</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.1152,54.728,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 196<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>196</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.1142,54.7264,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 197<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>197</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.3189,54.7589,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 198<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>198</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.3189,54.7588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 199<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>199</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8672,54.6907,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 200<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>200</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8649,54.6906,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 201<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>201</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8637,54.6919,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 202<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>202</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8608,54.6916,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 203<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>203</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8579,54.6911,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 204<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>204</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8505,54.6928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 205<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>205</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8485,54.6918,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 206<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>206</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8419,54.6943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 207<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>207</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8419,54.6936,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 208<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>208</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8384,54.6947,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 209<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>209</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.8027,54.7063,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 210<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>210</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.6077,54.7414,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 211<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>211</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.6193,54.6963,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 212<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>212</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.6204,54.6905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 213<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>213</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.6186,54.6948,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 214<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>214</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.619,54.6947,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 215<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>215</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.509,54.6631,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 216<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>216</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.5048,54.665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 217<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>217</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.5039,54.6653,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 218<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>218</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.5018,54.6665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 219<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>219</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.5116,54.677,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 220<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>220</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.5145,54.6781,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 221<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>221</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.9368,54.5945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 222<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>222</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.9363,54.5951,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 223<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>223</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.9381,54.5932,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 224<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>224</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.937,54.5942,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 225<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>225</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.9393,54.5924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 226<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>226</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.9388,54.5927,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 227<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>227</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.9359,54.5952,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 228<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>228</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.9353,54.5954,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 229<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>229</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.634237,53.884886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 230<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>230</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.635502,53.884531,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 231<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>231</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.637488,53.885111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 232<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>232</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.6551,53.8829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 233<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>233</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.6543,53.8822,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 234<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>234</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.6541,53.8813,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 235<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>235</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.655,53.8796,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 236<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>236</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.6553,53.8791,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 237<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>237</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.6567,53.8785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 238<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>238</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.7556,53.9272,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 239<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>239</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.620464,54.690247,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 240<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>240</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.478929,54.748883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 241<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>241</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.489996,54.743544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 242<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>242</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.125437,54.737609,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 243<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>243</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.114688,54.727145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 244<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>244</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.11444,54.726764,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 245<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>245</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.114923,54.727627,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 246<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>246</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.865795,54.692251,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 248<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>248</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.837827,54.695989,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 250<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>250</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.796626,54.712802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 251<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>251</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.796071,54.712831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 252<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>252</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.796114,54.713099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 253<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>253</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.796079,54.713634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 254<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>254</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.795552,54.713539,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 255<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>255</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.796918,54.713356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 256<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>256</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.79702,54.713145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 257<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>257</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.797038,54.71239,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 258<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>258</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.747045,54.716068,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 259<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>259</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.740916,54.715867,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 260<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>260</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.692615,54.732135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 264<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>264</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.631506,54.745163,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 265<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>265</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.630962,54.744995,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 266<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>266</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.630364,54.74501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 273<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>273</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.604632,54.692769,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 274<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>274</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.61306,54.699922,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 275<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>275</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.61432,54.699088,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 276<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>276</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.614641,54.698745,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 277<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>277</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.613697,54.69991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 278<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>278</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.614032,54.699468,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 282<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>282</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.007768,54.836917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 284<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>284</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.866685,54.146907,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 285<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>285</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.909162,54.131246,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 287<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>287</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.892573,54.109699,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 288<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>288</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.899443,54.129111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 289<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>289</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.881297,54.105709,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 290<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>290</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.852183,54.046428,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 291<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>291</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.852654,54.047326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 293<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>293</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.849134,54.045554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 294<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>294</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.849574,54.045818,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 295<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>295</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.850842,54.045779,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 298<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>298</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.783418,53.960111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 301<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>301</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.656267,53.887793,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 304<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>304</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.632226,53.886979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 305<br>type: стол с навесом]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>305</value>
+        </Data>
+        <Data name="type">
+          <value>стол с навесом</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.634764,53.886517,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турстоянка</name>
+      <description><![CDATA[описание: <br>_id: 306<br>type: стол без навеса]]></description>
+      <styleUrl>#icon-1650-AFB42B</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>306</value>
+        </Data>
+        <Data name="type">
+          <value>стол без навеса</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.633554,53.886479,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 1<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>1</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.006968,54.880454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 2<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>2</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.019631,54.872695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 3<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>3</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.028165,54.870074,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 4<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>4</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.021331,54.853096,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 5<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>5</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.012035,54.850925,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 6<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>6</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.009897,54.850704,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 7<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>7</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.013865,54.835161,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 8<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>8</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.05016,54.827828,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 9<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>9</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.037433,54.811285,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 10<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>10</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.034528,54.799155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 11<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>11</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.041716,54.796784,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 12<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>12</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.049579,54.796988,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 13<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>13</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.060406,54.798928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 14<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>14</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.084642,54.794712,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 15<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>15</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.058687,54.769891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 16<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>16</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.090803,54.772952,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 17<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>17</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.118657,54.760601,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 18<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>18</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.178352,54.745112,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 19<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>19</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.182561,54.743998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 20<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>20</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.208118,54.744265,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 21<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>21</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.210919,54.751719,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 22<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>22</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.222797,54.754314,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 23<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>23</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.30657,54.767208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остановка для водного транспорта</name>
+      <description><![CDATA[описание: <br>_id: 24<br>type: Место для удобной высадки на берег во время сплава]]></description>
+      <styleUrl>#icon-1623-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="описание">
+          <value/>
+        </Data>
+        <Data name="_id">
+          <value>24</value>
+        </Data>
+        <Data name="type">
+          <value>Место для удобной высадки на берег во время сплава</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          35.309427,54.765541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

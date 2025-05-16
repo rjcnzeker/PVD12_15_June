@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAndRouterV2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net/docs/technical/osmand-file-formats/osmand-gpx" xmlns:gpxtpx="https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites</name>
+    <time>2025-05-16T08:10:11Z</time>
+  </metadata>
+  <wpt lat="54.7281394" lon="35.47966">
+    <name>Место стоянки</name>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>tourism_camp_site</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.7156226" lon="35.5000019">
+    <name>Место стоянки + руины</name>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>tourism_camp_site</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.743744" lon="35.60093">
+    <name>Место стоянки второй день</name>
+    <extensions>
+      <osmand:web_iconkeyname>camp_site</osmand:web_iconkeyname>
+      <osmand:web_typeosmtag>tourism</osmand:web_typeosmtag>
+      <osmand:color>#eecc22</osmand:color>
+      <osmand:web_keyname>camp_site</osmand:web_keyname>
+      <osmand:web_type>POI</osmand:web_type>
+      <osmand:icon>tourism_camp_site</osmand:icon>
+      <osmand:idobj>22333669122</osmand:idobj>
+      <osmand:amenity_type>tourism</osmand:amenity_type>
+      <osmand:amenity_subtype>camp_site</osmand:amenity_subtype>
+      <osmand:web_categoryicon>tourism</osmand:web_categoryicon>
+      <osmand:web_categorykeyname>tourism</osmand:web_categorykeyname>
+      <osmand:background>circle</osmand:background>
+      <osmand:web_typeosmvalue>camp_site</osmand:web_typeosmvalue>
+    </extensions>
+  </wpt>
+  <wpt lat="54.741306" lon="35.607548">
+    <name>Место стоянки второй день 2</name>
+    <extensions>
+      <osmand:web_iconkeyname>camp_site</osmand:web_iconkeyname>
+      <osmand:website>https://parkugra.ru/otdih/mesta-razmesheniya.html</osmand:website>
+      <osmand:web_typeosmtag>tourism</osmand:web_typeosmtag>
+      <osmand:address>No data</osmand:address>
+      <osmand:color>#eecc22</osmand:color>
+      <osmand:web_keyname>camp_site</osmand:web_keyname>
+      <osmand:web_type>POI</osmand:web_type>
+      <osmand:icon>tourism_camp_site</osmand:icon>
+      <osmand:idobj>8687680222</osmand:idobj>
+      <osmand:amenity_type>tourism</osmand:amenity_type>
+      <osmand:amenity_subtype>camp_site</osmand:amenity_subtype>
+      <osmand:web_categoryicon>tourism</osmand:web_categoryicon>
+      <osmand:web_categorykeyname>tourism</osmand:web_categorykeyname>
+      <osmand:background>circle</osmand:background>
+      <osmand:web_typeosmvalue>camp_site</osmand:web_typeosmvalue>
+    </extensions>
+  </wpt>
+  <wpt lat="54.6239471" lon="35.9850955">
+    <time>2025-05-16T08:44:36Z</time>
+    <name>Антистапель 1</name>
+    <extensions>
+      <osmand:address>No data</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>leisure_marina</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.6761883" lon="35.9232545">
+    <time>2025-05-16T08:44:22Z</time>
+    <name>Аварийный сход</name>
+    <extensions>
+      <osmand:address>No data</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>special_symbol_remove</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.5665634" lon="36.0166597">
+    <name>Антистапель</name>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>leisure_marina</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="" color="#FF5020" icon="tourism_camp_site" background="circle" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>
